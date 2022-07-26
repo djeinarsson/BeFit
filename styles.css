@@ -1,0 +1,317 @@
+body {
+  font-family: 'Geneva', sans-serif;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Geneva', sans-serif;
+}
+
+p {
+  font-family: 'Geneva', sans-serif;
+  color: black;
+}
+
+a {
+  color: #2864f0;
+  font-family: 'Geneva', sans-serif;
+}
+
+/*****     SECTIONS     *****/
+.coloured-section {
+  background-color: #2864f0;
+}
+
+.white-section {
+  background-color: white;
+}
+
+/*****     HEADINGS     *****/
+.big-heading {
+  font-size: 4rem;
+  color: #2864f0;
+  line-height: 1;
+  text-align: left;
+  font-weight: bold;
+  letter-spacing: 0.13rem;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+/*****     FEATURES    *****/
+#features {
+  margin-bottom: 140px;
+}
+
+.featuresparaghraphs {
+  margin-top: 10px;
+  font-family: 'Geneva', sans-serif;
+  font-size: 1rem;
+  color: black;
+}
+
+.featuretop {
+  margin-top: 170px;
+}
+
+.featureheading {
+  font-size: 3rem;
+  color: #2864f0;
+  line-height: 1;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*****     TESTIMONIALS    *****/
+
+.testimonialsdesc {
+  color: white;
+  font-family: 'Geneva', sans-serif;
+  margin-top: 4%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonialsh {
+  color: white;
+  font-size: 2.8rem;
+  line-height: 1.3;
+  font-family: 'Geneva', sans-serif;
+}
+
+.testimonialsimg {
+  width: 20%;
+  border-radius: 100%;
+  margin-top: 4%;
+}
+
+/*****     PRESS    *****/
+#press {
+  padding-bottom: 3%;
+}
+
+.businesslogos {
+  width: 15%;
+  margin: 50px 20px 50px;
+}
+
+/*****     PRICING    *****/
+.undertitle {
+  font-family: 'Geneva', sans-serif;
+  font-size: 1.15rem;
+  color: #2864f0;
+  line-height: 1.5;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.pricingbutton {
+  width: 250px;
+}
+
+.pricingbutton:hover {
+  background-color: white;
+  color: #2864f0;
+}
+
+.pricingbutton1 {
+  width: 250px;
+  margin-top: 130px;
+  background-color: white;
+  color: #2864f0;
+}
+
+.pricingbutton1:hover {
+  margin-top: 130px;
+  background-color: #2864f0;
+  color: white;
+}
+
+.pricingtitle {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.pricingrow {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 100px;
+}
+
+.freepremium {
+  font-size: 3rem;
+  color: #2864f0;
+  line-height: 1;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.pricingh {
+  font-size: 3rem;
+  color: #2864f0;
+  line-height: 1;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/*****     CALL TO ACTION    *****/
+#cta {
+  margin: 100px 0;
+  margin-top: 200px;
+}
+
+.appimages {
+  height: 30%;
+  width: 30%;
+}
+
+.ctaheader {
+  font-size: 3rem;
+  color: #2864f0;
+  line-height: 1;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.menu {
+  font-family: 'Geneva', sans-serif;
+  font-size: 1.1rem;
+  color: #2864f0;
+  margin-top: 15px;
+  cursor: pointer;
+}
+
+.container-fluid {
+  padding: 0.5% 15% 1px;
+}
+
+.navpadding {
+  margin-bottom: 1px;
+}
+
+.appstorebutton1:hover {
+  background-color: white;
+  color: #2864f0;
+}
+
+.iphone-mockup {
+  margin-left: 140px;
+  height: 100%;
+  width: 75%;
+}
+
+.befit {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.spacer {
+  height: 8px;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
+.nav-item {
+  padding: 0 18px;
+  color: #2864f0;
+  font-family: 'Geneva', sans-serif;
+  font-size: 2rem;
+}
+
+.navbar-nav {
+  color: #2864f0;
+  font-family: 'Geneva', sans-serif;
+  font-size: 2rem;
+}
+
+.blocksthree {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 60px 50px 20px 50px;
+}
+
+.subheading {
+  margin-top: 30px;
+  font-family: 'Geneva', sans-serif;
+  font-size: 1.5rem;
+  color: #2864f0;
+  font-weight: bold;
+}
+
+.journey {
+  display: block;
+  margin: 30px auto 90px auto;
+  background-color: white;
+  color: #2864f0;
+}
+
+.card-text {
+  margin-top: 20px;
+}
+
+.blockphotos {
+  border: 5px solid white;
+  border-radius: 20%;
+  padding: 15px;
+}
+
+.blockphotos:hover {
+  border: 5px solid #2864f0;
+}
+
+.centerrow {
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.appstorebutton1 {
+  position: absolute;
+  left: 14.9%;
+}
+
+.appstorebutton2 {
+  position: absolute;
+  left: 29%;
+}
+
+.appstorebutton3:hover {
+  background-color: white;
+  color: #2864f0;
+}
+
+/*****     FOOTER     *****/
+#footer {
+  background-color: #2864f0;
+  height: 70px;
+}
+
+.footertext {
+  color: white;
+  padding: 20px;
+  margin-top: 40px;
+  font-size: 14px;
+}
+
+.authorlink {
+  text-decoration: none;
+  color: white;
+}
+
+.authorlink:hover {
+  text-decoration: underline;
+  color: white;
+}
+
+@media (max-width: 1028px) {
+  .big-heading {
+    text-align: center;
+  }
+}
